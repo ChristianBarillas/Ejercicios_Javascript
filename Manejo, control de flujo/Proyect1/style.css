@@ -1,0 +1,28 @@
+body {
+
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.formulario_notas{
+
+    width: 50%;
+    margin: 40px auto;
+    padding: 40px;
+    text-align: center;
+    background-color: aqua;
+    box-sizing: content-box;
+
+
+}
+
+
+
+input[type = "button"]{
+
+    margin-top: 20px;
+    color: rgb(15, 94, 205);
+    background-color: gray;
+    border: none;
+    width: auto;
+}

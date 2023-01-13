@@ -1,0 +1,2 @@
+const myList = [];
+myList.push(["chocolate",2], ["sugar",4],["water",8], ["water",8], ["water",8]);
